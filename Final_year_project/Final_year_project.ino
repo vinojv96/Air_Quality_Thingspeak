@@ -22,9 +22,9 @@ unsigned long lowpulseoccupancy = 0;
 float ratio = 0;
 float concentration = 0;
 //////Wi-Fi**Connection////////// 
-String apiKey = "CZ0ZRFNO4EYXLZ55";
-const char* ssid = "Vino";
-const char* password = "vinoth@1996";
+String apiKey = "change your api key";
+const char* ssid = "your wifi ssid";
+const char* password = "your password";
  
 const char* server = "api.thingspeak.com";
 #define DHTPIN 14 // what pin we're connected to
