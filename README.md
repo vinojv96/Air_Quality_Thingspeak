@@ -1,3 +1,4 @@
+[![Build Status][travis-shield]][travis]
 # Air Quality Thingspeak
 My Final year project source code(working sketch)
 
